@@ -18,7 +18,7 @@ The update takes place in the background, so if you select a large number of ite
 
 # Credits
 
-Vincent BUARD for the EMAN Project - CNRS
+Vincent BUARD [Numerizen](http://numerizen.com) for the [EMAN Project](http://eman-archives.org) - [CNRS](https://www.cnrs.fr)
 
 
 
